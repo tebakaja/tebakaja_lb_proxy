@@ -1,4 +1,4 @@
-FROM golang:1.21.12-alpine3.19
+FROM golang:1.23.4-alpine3.19
 
 LABEL creator="qywok"
 
